@@ -28,7 +28,7 @@ Before running this project, you will need an API key from OpenWeatherAPI. Follo
 1. Enter the name of the city you want to check the weather for.
 2. Click on the "Get Weather" button.
 3. The app will fetch and display the current weather information for that city.
-4. 
+   
 ## Screenshot
 ![App Screenshot](ScreenShot.png)
 
